@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dev Ops And Svelte**
 
-- 👨‍💻 All of my projects are available at [my repository](my repository)
+- 👨‍💻 All of my projects are available at my repo
 
 - 💬 Ask me about **Laravel**
 
