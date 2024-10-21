@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eden Hookah](https://edenhookah.com/) [r-outcomes](https://r-outcomes.com)
 
-- 🌱 I’m currently learning **Dev Ops And Svelte**
+- 🌱 I’m currently learning **Microservice for production**
 
 - 👨‍💻 All of my projects are available at my repo
 
