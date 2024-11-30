@@ -1,5 +1,5 @@
 <h1 align="center">Halo 👋, Saya Mahendra</h1>
-<h3 align="center">Saya merupakan fullstack dev yang berada di surabaya, saya berfokus dalam development menggunakan laravel dan flutter</h3>
+<h3 align="center">Saya merupakan fullstack dev yang berada di surabaya, saya berfokus dalam development menggunakan laravel,react native,typescript</h3>
 
 - 🔭 I’m currently working on [Eden Hookah](https://edenhookah.com/) [r-outcomes](https://r-outcomes.com)
 
