@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Mahendra</h1>
 <h3 align="center">Saya merupakan fullstack dev yang berada di surabaya, saya berfokus dalam development menggunakan laravel,react native,typescript, Node js</h3>
 
-- 🔭 I’m currently working on [Eden Hookah](https://edenhookah.com/) [r-outcomes](https://r-outcomes.com)[AccStorage](https://accstorage.com/)
+- 🔭 I’m currently working on [Eden Hookah](https://edenhookah.com/) [r-outcomes](https://r-outcomes.com) [AccStorage](https://accstorage.com/)
 
 - 🌱 I’m currently learning **Microservice for production**
 
