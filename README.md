@@ -18,34 +18,78 @@
 
 <div align="center">
   
-  ### 🚀 Journey Through Code
+  ### 🚀 Tech Journey & Learning Path
   
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+Explorer;DevOps+Engineer" alt="Typing SVG" />
+  </div>
+
+  ### 🎯 Current Focus Areas
 
 ```typescript
-class TechJourney {
-    readonly webDev = "⚡ Crafting Blazing-Fast Web Applications";
-    readonly mobile = "📱 Building Cross-Platform Mobile Experiences";
-    readonly devOps = "☁️ Orchestrating Cloud Infrastructure & CI/CD";
-    readonly blockchain = "⛓️ Innovating in Web3 & DeFi Protocols";
-    readonly ai = "🤖 Integrating AI/ML Solutions";
-    readonly design = "🎨 Creating Intuitive User Experiences";
+class TechMastery {
+    /* 🌐 Web Development Arsenal */
+    readonly webDev = {
+        frontend: ["React ⚛️", "Next.js 🔥", "TypeScript 💪"],
+        backend: ["Node.js 🚀", "GraphQL 📊", "PostgreSQL 🐘"]
+    };
 
-    current_quests = [
-        "Mastering Zero-Knowledge Proofs",
-        "Scaling Layer 2 Solutions",
-        "Advanced Smart Contract Architecture"
-    ];
+    /* 📱 Mobile & Cross-Platform */
+    readonly mobile = {
+        frameworks: ["React Native 📱", "Flutter 💙"],
+        focus: "Building seamless cross-platform experiences"
+    };
+
+    /* ☁️ DevOps & Infrastructure */
+    readonly devOps = {
+        cloud: ["AWS ☁️", "Docker 🐳", "Kubernetes ⎈"],
+        practices: ["CI/CD 🔄", "Infrastructure as Code 📝"]
+    };
+
+    /* 🔗 Blockchain Innovation */
+    readonly blockchain = {
+        expertise: ["Smart Contracts 📜", "DeFi Protocols 💰"],
+        technologies: ["Ethereum 💠", "Solidity ⚡"]
+    };
+
+    /* 🤖 AI/ML Journey */
+    readonly ai = {
+        focus: ["Natural Language Processing 🗣️", "Computer Vision 👁️"],
+        tools: ["TensorFlow 🧠", "PyTorch 🔥"]
+    };
 }
 ```
 
+  ### 🎯 Current Mission Objectives
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img width="30" src="https://img.icons8.com/color/48/000000/blockchain-technology.png"/> 
+          <br />Zero-Knowledge Proofs
+        </td>
+        <td align="center">
+          <img width="30" src="https://img.icons8.com/color/48/000000/speed.png"/>
+          <br />Layer 2 Scaling
+        </td>
+        <td align="center">
+          <img width="30" src="https://img.icons8.com/color/48/000000/smart-card.png"/>
+          <br />Smart Contract Architecture
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=radical" alt="GitHub Streak Stats"/>
+  </div>
+
 </div>
 
 <div align="center">
   
-  ### 🔭 Project i used to work at
+  ### 🔭 Some Project That I Worked On
   
   [![Eden Hookah](https://img.shields.io/badge/Eden_Hookah-4A235A?style=for-the-badge&logoColor=white)](https://edenhookah.com/)
   [![r-outcomes](https://img.shields.io/badge/r--outcomes-1ABC9C?style=for-the-badge&logoColor=white)](https://r-outcomes.com)
@@ -64,7 +108,7 @@ class TechJourney {
 
 <div align="center">
   
-### 🌱 Currently Learning
+### 🌱 New Thing That I Learned
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1adb3c29.gif" width="250">
@@ -143,7 +187,7 @@ const skills: TechStack = {
 
 <div align="center">
   
-### 🎯 Current Mission Objectives
+### 🎯 Currently Learning
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f79a.gif" width="400">
@@ -176,7 +220,7 @@ const skills: TechStack = {
 
 </div>
 
-## 🤝 Communication Channels
+## 🤝 Communication
 
 <div align="center">
     <a href="https://instagram.com/mmmahne">
