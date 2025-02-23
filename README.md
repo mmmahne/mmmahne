@@ -123,94 +123,12 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
-  Tech Universe
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
-</h2>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer"/>
+</div>
 
 <div align="center">
   
-```typescript
-interface TechStack {
-    web3: {
-        smartContracts: string[];
-        defi: string[];
-        tools: string[];
-    };
-    devOps: {
-        cloud: string[];
-        automation: string[];
-        monitoring: string[];
-    };
-    development: {
-        languages: string[];
-        frameworks: string[];
-        databases: string[];
-    };
-}
-
-const skills: TechStack = {
-    web3: {
-        smartContracts: ['Solidity', 'Rust', 'ZK-SNARK'],
-        defi: ['Uniswap', 'Aave', 'Compound', 'MEV'],
-        tools: ['Hardhat', 'Foundry', 'OpenZeppelin']
-    },
-    devOps: {
-        cloud: ['AWS', 'GCP', 'Kubernetes', 'Docker'],
-        automation: ['Terraform', 'Ansible', 'GitHub Actions'],
-        monitoring: ['Prometheus', 'Grafana', 'ELK Stack']
-    },
-    development: {
-        languages: ['TypeScript', 'Rust', 'Python', 'Go'],
-        frameworks: ['Next.js', 'React Native', 'Laravel'],
-        databases: ['PostgreSQL', 'MongoDB', 'Redis']
-    }
-}
-```
-
-</div>
-
-<details>
-<summary align="center">🌟 Tech Stack</summary>
-
-</details>
-
-<div align="center">
-  
-### 🎯 Currently Learning
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f79a.gif" width="400">
-</div>
-
-```ascii
-🌌 PRIORITY MISSIONS 🌌
-========================
-
-[1] BLOCKCHAIN INNOVATIONS
-    ├── Research: Zero-Knowledge Proof Applications
-    ├── Develop: Cross-Chain Bridge Protocols
-    └── Optimize: Layer 2 Scaling Solutions
-
-[2] DEFI ARCHITECTURE
-    ├── Design: Advanced AMM Mechanisms
-    ├── Implement: MEV Protection Strategies
-    └── Build: Automated Trading Systems
-
-[3] INFRASTRUCTURE
-    ├── Deploy: High-Performance Validator Nodes
-    ├── Scale: Cross-Chain Data Solutions
-    └── Secure: ZK-Rollup Implementation
-
-[4] RESEARCH & DEVELOPMENT
-    ├── Explore: Novel Consensus Mechanisms
-    ├── Analyze: DeFi Protocol Security
-    └── Innovate: Token Economics Models
-```
-
-</div>
-
 ## 🤝 Communication
 
 <div align="center">
@@ -224,8 +142,4 @@ const skills: TechStack = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahendradwipurwanto&color=blueviolet&style=flat-square&label=Mission+Visits" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer" />
 </div>
