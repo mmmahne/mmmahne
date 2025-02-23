@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahendra&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,141,141,17,17,62&height=180&section=header&text=Mahendra&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <h1 align="center">
@@ -20,21 +20,32 @@
   
   ### 🚀 Journey Through Code
   
-  ```text
-  🌍 Web Development
-  📱 Mobile Apps
-  ☁️ DevOps & Cloud
-  ⛓️ Smart Contracts & Web3
-  🔧 Systems Programming
-  🎨 UI/UX Design
-  ```
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+```typescript
+class TechJourney {
+    readonly webDev = "⚡ Crafting Blazing-Fast Web Applications";
+    readonly mobile = "📱 Building Cross-Platform Mobile Experiences";
+    readonly devOps = "☁️ Orchestrating Cloud Infrastructure & CI/CD";
+    readonly blockchain = "⛓️ Innovating in Web3 & DeFi Protocols";
+    readonly ai = "🤖 Integrating AI/ML Solutions";
+    readonly design = "🎨 Creating Intuitive User Experiences";
+
+    current_quests = [
+        "Mastering Zero-Knowledge Proofs",
+        "Scaling Layer 2 Solutions",
+        "Advanced Smart Contract Architecture"
+    ];
+}
+```
+
 </div>
 
 <div align="center">
   
-  ### 🔭 Some project i used to work
+  ### 🔭 Project i used to work at
   
   [![Eden Hookah](https://img.shields.io/badge/Eden_Hookah-4A235A?style=for-the-badge&logoColor=white)](https://edenhookah.com/)
   [![r-outcomes](https://img.shields.io/badge/r--outcomes-1ABC9C?style=for-the-badge&logoColor=white)](https://r-outcomes.com)
@@ -53,26 +64,47 @@
 
 <div align="center">
   
-### 🌱 Growing Skills Tree
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1adb3c29.gif" width="250">
+### 🌱 Currently Learning
 
-```javascript
-const skillsTree = {
-  blockchain: {
-    smartContracts: ['Solidity', 'Rust'],
-    web3: ['ethers.js', 'web3.js', 'Hardhat'],
-    defi: ['Uniswap', 'Aave', 'Compound']
-  },
-  devOps: {
-    containerization: ['Docker', 'Kubernetes'],
-    cicd: ['Jenkins', 'GitHub Actions', 'GitLab CI'],
-    infrastructure: ['Terraform', 'Ansible', 'AWS', 'GCP']
-  },
-  fullStack: {
-    frontend: ['React', 'TypeScript', 'Next.js'],
-    backend: ['Node.js', 'Laravel', 'PostgreSQL'],
-    mobile: ['React Native', 'Flutter']
-  }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1adb3c29.gif" width="250">
+</div>
+
+```typescript
+interface TechStack {
+    web3: {
+        smartContracts: string[];
+        defi: string[];
+        tools: string[];
+    };
+    devOps: {
+        cloud: string[];
+        automation: string[];
+        monitoring: string[];
+    };
+    development: {
+        languages: string[];
+        frameworks: string[];
+        databases: string[];
+    };
+}
+
+const skills: TechStack = {
+    web3: {
+        smartContracts: ['Solidity', 'Rust', 'ZK-SNARK'],
+        defi: ['Uniswap', 'Aave', 'Compound', 'MEV'],
+        tools: ['Hardhat', 'Foundry', 'OpenZeppelin']
+    },
+    devOps: {
+        cloud: ['AWS', 'GCP', 'Kubernetes', 'Docker'],
+        automation: ['Terraform', 'Ansible', 'GitHub Actions'],
+        monitoring: ['Prometheus', 'Grafana', 'ELK Stack']
+    },
+    development: {
+        languages: ['TypeScript', 'Rust', 'Python', 'Go'],
+        frameworks: ['Next.js', 'React Native', 'Laravel'],
+        databases: ['PostgreSQL', 'MongoDB', 'Redis']
+    }
 }
 ```
 
@@ -92,36 +124,55 @@ const skillsTree = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1b27)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27)
 ![Rust](https://img.shields.io/badge/Rust-FF4785?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1b27)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white&labelColor=1a1b27)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1b27)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1b27)
 
 ### 💾 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=1a1b27)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1b27)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1b27)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b27)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27)
+### 🚀 Web3 & Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1b27)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=1a1b27)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=1a1b27)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=1a1b27)
 
 </details>
 
 <div align="center">
   
-### 🚀 Mission
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-
 ### 🎯 Current Mission Objectives
-- 🔬 Researching Zero-Knowledge Proofs & Layer 2 Scaling Solutions
-- 🌐 Developing Cross-Chain Bridge Protocols
-- 🛡️ Implementing Advanced Smart Contract Security Patterns
-- ⚡ Optimizing Gas Efficiency in DeFi Protocols
-- 🤖 Building Automated Trading Systems for DEXs
-- 🔄 Designing High-Performance Consensus Mechanisms
-- 📊 Developing Blockchain Analytics & MEV Strategies
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f79a.gif" width="400">
+</div>
+
+```ascii
+🌌 PRIORITY MISSIONS 🌌
+========================
+
+[1] BLOCKCHAIN INNOVATIONS
+    ├── Research: Zero-Knowledge Proof Applications
+    ├── Develop: Cross-Chain Bridge Protocols
+    └── Optimize: Layer 2 Scaling Solutions
+
+[2] DEFI ARCHITECTURE
+    ├── Design: Advanced AMM Mechanisms
+    ├── Implement: MEV Protection Strategies
+    └── Build: Automated Trading Systems
+
+[3] INFRASTRUCTURE
+    ├── Deploy: High-Performance Validator Nodes
+    ├── Scale: Cross-Chain Data Solutions
+    └── Secure: ZK-Rollup Implementation
+
+[4] RESEARCH & DEVELOPMENT
+    ├── Explore: Novel Consensus Mechanisms
+    ├── Analyze: DeFi Protocol Security
+    └── Innovate: Token Economics Models
+```
 
 </div>
 
@@ -141,5 +192,5 @@ const skillsTree = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,141,141,17,17,62&height=120&section=footer" />
 </div>
