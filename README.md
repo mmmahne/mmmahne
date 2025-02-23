@@ -8,28 +8,33 @@
     </a>
 </h1>
 
-<h3 align="center">💻 Full Stack Developer dari Surabaya, Indonesia 🌆</h3>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
+<br>
+
 <div align="center">
   
-  ### 🔭 Beberapa website yang saya kerjakan:
+  ### 🚀 Journey Through Code
+  
+  ```text
+  🌍 Web Development     ████████████████░░   80%
+  📱 Mobile Apps         ███████████████░░░   75%
+  🔧 Systems Programming ████████░░░░░░░░░    40%
+  🎨 UI/UX Design       ██████████████░░░░   70%
+  ```
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  
+  ### 🔭 Currently Building Dreams At
   
   [![Eden Hookah](https://img.shields.io/badge/Eden_Hookah-4A235A?style=for-the-badge&logoColor=white)](https://edenhookah.com/)
   [![r-outcomes](https://img.shields.io/badge/r--outcomes-1ABC9C?style=for-the-badge&logoColor=white)](https://r-outcomes.com)
   [![AccStorage](https://img.shields.io/badge/AccStorage-2980B9?style=for-the-badge&logoColor=white)](https://accstorage.com/)
-  
-  ### 🌱 Currently Deep Diving Into
-  
-  ![Rust](https://img.shields.io/badge/Rust-FF4785?style=for-the-badge&logo=rust&logoColor=white)
-  ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
-  ![Systems Programming](https://img.shields.io/badge/Systems-Programming-3498DB?style=for-the-badge)
-  
-  📫 Contact: **aryamahendra@protonmail.ch**
-  
 </div>
 
 <div align="center">
@@ -38,25 +43,36 @@
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
-  Tech Stack
+  Tech Universe
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendradwipurwanto&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Top Languages" />
+  
+### 🌱 Growing Skills Tree
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1adb3c29.gif" width="250">
+
+```javascript
+const skills = {
+  current: ["Rust", "Zig", "Systems Programming"],
+  mastered: ["Laravel", "React", "TypeScript", "Node.js"],
+  exploring: ["WebAssembly", "Blockchain", "AI/ML"]
+}
+```
+
 </div>
 
 <details>
-<summary align="center">🌟 Click to Expand Tech Stack</summary>
+<summary align="center">🌟 Expand Tech Arsenal</summary>
 
-### 🎨 Frontend
+### 🎨 Frontend Cosmos
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27)
 ![React Native](https://img.shields.io/badge/React_Native-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1b27)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1b27)
 
-### 🛠 Backend & Systems
+### 🛠 Backend Galaxy
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1b27)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27)
 ![Rust](https://img.shields.io/badge/Rust-FF4785?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1b27)
@@ -64,47 +80,44 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1b27)
 
-### 💾 Database
+### 💾 Data Constellation
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=1a1b27)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1b27)
 
-### 🔧 Tools
+### 🔧 Tool Belt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b27)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27)
 
 </details>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahendradwipurwanto&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahendradwipurwanto&show_icons=true&theme=radical&bg_color=0D1117&border_color=7F3FBF" />
-    <img alt="Shows Mahendra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=mahendradwipurwanto&show_icons=true&theme=radical&bg_color=0D1117&border_color=7F3FBF" height="165" />
-  </picture>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahendradwipurwanto&theme=radical&border=7F3FBF&background=0D1117" />
-    <img alt="Shows Mahendra's GitHub Streak." src="https://github-readme-streak-stats.herokuapp.com/?user=mahendradwipurwanto&theme=radical&border=7F3FBF&background=0D1117" height="165" />
-  </picture>
+### 🚀 Mission Control
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+
+```ascii
+      🌟
+   🌠  ┃  🌠
+🌠  ┃  🚀  ┃  🌠
+   ┃  ┃  ┃
+   ┃  📱  ┃
+   ┃  💻  ┃
+   ┃  🌍  ┃
+   └─────┘
+```
+
+### 🎯 Current Mission Objectives
+- 🔬 Exploring the depths of Systems Programming
+- 🌐 Building scalable web solutions
+- 📚 Sharing knowledge through open source
+- 🚀 Launching innovative projects
+
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahendradwipurwanto&custom_title=Mahendra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-    <img alt="Shows Mahendra's GitHub Contributions Graph." src="https://github-readme-activity-graph.vercel.app/graph?username=mahendradwipurwanto&custom_title=Mahendra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-  </picture>
-</div>
-
-## 🤝 Mari Terhubung
+## 🤝 Communication Channels
 
 <div align="center">
     <a href="https://instagram.com/mmmahne">
@@ -116,7 +129,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendradwipurwanto&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mahendradwipurwanto&color=blueviolet&style=flat-square&label=Mission+Visits" alt="Profile views" />
 </div>
 
 <div align="center">
