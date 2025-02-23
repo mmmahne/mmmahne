@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,141,141,17,17,62&height=180&section=header&text=Mahendra&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header" />
 </div>
 
 <h1 align="center">
@@ -26,39 +26,41 @@
 
   ### 🎯 Current Focus Areas
 
-```typescript
-class TechMastery {
-    /* 🌐 Web Development Arsenal */
-    readonly webDev = {
-        frontend: ["React ⚛️", "Next.js 🔥", "TypeScript 💪"],
-        backend: ["Node.js 🚀", "GraphQL 📊", "PostgreSQL 🐘"]
-    };
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/react-native.png"/>
+        <br />
+        <strong>Advanced React Patterns</strong>
+        <br />
+        <sub>Performance & Architecture</sub>
+      </td>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/artificial-intelligence.png"/>
+        <br />
+        <strong>AI Integration</strong>
+        <br />
+        <sub>LLM & Neural Networks</sub>
+      </td>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/blockchain-technology.png"/>
+        <br />
+        <strong>Web3 Development</strong>
+        <br />
+        <sub>Smart Contracts & DApps</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-    /* 📱 Mobile & Cross-Platform */
-    readonly mobile = {
-        frameworks: ["React Native 📱", "Flutter 💙"],
-        focus: "Building seamless cross-platform experiences"
-    };
+### 🌱 Latest Tech Exploration
 
-    /* ☁️ DevOps & Infrastructure */
-    readonly devOps = {
-        cloud: ["AWS ☁️", "Docker 🐳", "Kubernetes ⎈"],
-        practices: ["CI/CD 🔄", "Infrastructure as Code 📝"]
-    };
-
-    /* 🔗 Blockchain Innovation */
-    readonly blockchain = {
-        expertise: ["Smart Contracts 📜", "DeFi Protocols 💰"],
-        technologies: ["Ethereum 💠", "Solidity ⚡"]
-    };
-
-    /* 🤖 AI/ML Journey */
-    readonly ai = {
-        focus: ["Natural Language Processing 🗣️", "Computer Vision 👁️"],
-        tools: ["TensorFlow 🧠", "PyTorch 🔥"]
-    };
-}
-```
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Rust-Learning%20Systems%20Programming-black?style=for-the-badge&logo=rust" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-Microservices%20Architecture-black?style=for-the-badge&logo=go" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-black?style=for-the-badge&logo=amazon-aws" /></a>
+</div>
 
   ### 🎯 Current Mission Objectives
 
@@ -155,13 +157,13 @@ const skills: TechStack = {
 </div>
 
 <details>
-<summary align="center">🌟 Expand Tech Arsenal</summary>
+<summary align="center">🌟 Tech Stack</summary>
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27)
 ![React Native](https://img.shields.io/badge/React_Native-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1b27)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1b27)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1b27)
 
 ### 🛠 Backend
@@ -175,7 +177,6 @@ const skills: TechStack = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1b27)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1b27)
 
 ### 🚀 Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1b27)
@@ -236,5 +237,5 @@ const skills: TechStack = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,141,141,17,17,62&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer" />
 </div>
