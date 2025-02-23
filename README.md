@@ -3,13 +3,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Halo+%F0%9F%91%8B;Saya+Mahendra;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mahendradwipurwanto&color=blue" alt="Profile views" />
-    <a href="https://github.com/mahendradwipurwanto?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mahendradwipurwanto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-    </a>
-</p>
-
 <h3 align="center">💻 Full Stack Developer dari Surabaya, Indonesia 🌆</h3>
 
 <div align="center">
