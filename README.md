@@ -107,14 +107,14 @@
     </tr>
     <tr>
       <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/nolan/64/enterprise-resource-planning.png"/>
+        <img width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-erp-digital-transformation-flaticons-flat-flat-icons.png"/>
         <br />
         <strong>ERP Systems</strong>
         <br />
         <sub>Development and implementation of enterprise resource planning solutions for business process automation</sub>
       </td>
       <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/nolan/64/search-engine-optimization.png"/>
+        <img width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-seo-marketing-growth-flaticons-flat-flat-icons.png"/>
         <br />
         <strong>SEO Optimization</strong>
         <br />
@@ -123,14 +123,14 @@
     </tr>
     <tr>
       <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/nolan/64/artificial-intelligence.png"/>
+        <img width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-robotics-flaticons-flat-flat-icons.png"/>
         <br />
         <strong>AI Integration</strong>
         <br />
         <sub>Implementation of machine learning models, LLM integration, and AI-powered automation solutions</sub>
       </td>
       <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/nolan/64/mobile-development.png"/>
+        <img width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-mobile-app-mobile-app-development-flaticons-flat-flat-icons.png"/>
         <br />
         <strong>Mobile Development</strong>
         <br />
@@ -139,7 +139,7 @@
     </tr>
     <tr>
       <td align="center" width="300" colspan="2">
-        <img width="40" src="https://img.icons8.com/nolan/64/automation.png"/>
+        <img width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-automation-industry-4-flaticons-flat-flat-icons.png"/>
         <br />
         <strong>Automation Tools</strong>
         <br />
@@ -153,15 +153,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=radical" alt="GitHub Streak Stats"/>
   </div>
 
-</div>
-
-<div align="center">
-  
-  ### 🔭 Some Project That I Worked On
-  
-  [![Eden Hookah](https://img.shields.io/badge/Eden_Hookah-4A235A?style=for-the-badge&logoColor=white)](https://edenhookah.com/)
-  [![r-outcomes](https://img.shields.io/badge/r--outcomes-1ABC9C?style=for-the-badge&logoColor=white)](https://r-outcomes.com)
-  [![AccStorage](https://img.shields.io/badge/AccStorage-2980B9?style=for-the-badge&logoColor=white)](https://accstorage.com/)
 </div>
 
 <div align="center">
