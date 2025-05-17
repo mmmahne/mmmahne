@@ -85,7 +85,69 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1b27)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1b27)
 
-  
+### 💡 Additional Expertise
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/database.png"/>
+        <br />
+        <strong>Query Optimization</strong>
+        <br />
+        <sub>Performance tuning for complex database queries and database architecture design for scalable systems</sub>
+      </td>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/api-settings.png"/>
+        <br />
+        <strong>API Integration</strong>
+        <br />
+        <sub>WebSocket, RESTful API, and gRPC implementation with real-time data handling and microservices architecture</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/enterprise-resource-planning.png"/>
+        <br />
+        <strong>ERP Systems</strong>
+        <br />
+        <sub>Development and implementation of enterprise resource planning solutions for business process automation</sub>
+      </td>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/search-engine-optimization.png"/>
+        <br />
+        <strong>SEO Optimization</strong>
+        <br />
+        <sub>Implementation of technical SEO best practices and performance optimization for better search rankings</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/artificial-intelligence.png"/>
+        <br />
+        <strong>AI Integration</strong>
+        <br />
+        <sub>Implementation of machine learning models, LLM integration, and AI-powered automation solutions</sub>
+      </td>
+      <td align="center" width="300">
+        <img width="40" src="https://img.icons8.com/nolan/64/mobile-development.png"/>
+        <br />
+        <strong>Mobile Development</strong>
+        <br />
+        <sub>Cross-platform mobile app development using React Native and native integration capabilities</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300" colspan="2">
+        <img width="40" src="https://img.icons8.com/nolan/64/automation.png"/>
+        <br />
+        <strong>Automation Tools</strong>
+        <br />
+        <sub>Development of custom automation solutions, CI/CD pipelines, and workflow optimization tools</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=radical" alt="GitHub Streak Stats"/>
