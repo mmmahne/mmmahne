@@ -4,11 +4,11 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6AD3FF&center=true&vCenter=true&width=500&lines=Halo+%F0%9F%91%8B;Full+Stack+Developer;Smart+Contract+Engineer;DevOps+Specialist;Web3+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6AD3FF&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B;Full+Stack+Developer;Smart+Contract+Engineer;Web3+Developer" alt="Typing SVG" />
     </a>
 </h1>
 
-<h3 align="center">💻 Full Stack Developer dari Surabaya, Indonesia 🌆</h3>
+<h3 align="center">💻 Full Stack Developer from Surabaya, Indonesia 🌆</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
@@ -21,7 +21,7 @@
   ### 🚀 Tech Journey & Learning Path
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+Explorer;DevOps+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+Explorer" alt="Typing SVG" />
   </div>
 
   ### 🎯 Current Focus Areas
@@ -77,32 +77,15 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1b27)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=1a1b27)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=1a1b27)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white&labelColor=1a1b27)
+![Anchor](https://img.shields.io/badge/Anchor-41BDF5?style=for-the-badge&logo=anchor&logoColor=white&labelColor=1a1b27)
 
 ### ⚡ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1b27)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1b27)
 
-  ### 🎯 Current Mission Objectives
-
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img width="30" src="https://img.icons8.com/color/48/000000/blockchain-technology.png"/> 
-          <br />Zero-Knowledge Proofs
-        </td>
-        <td align="center">
-          <img width="30" src="https://img.icons8.com/color/48/000000/speed.png"/>
-          <br />Layer 2 Scaling
-        </td>
-        <td align="center">
-          <img width="30" src="https://img.icons8.com/color/48/000000/smart-card.png"/>
-          <br />Smart Contract Architecture
-        </td>
-      </tr>
-    </table>
-  </div>
+  
 
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=radical" alt="GitHub Streak Stats"/>
@@ -138,8 +121,4 @@
     <a href="mailto:aryamahendra@protonmail.ch">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1a1b27" alt="Email">
     </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendradwipurwanto&color=blueviolet&style=flat-square&label=Mission+Visits" alt="Profile views" />
 </div>
