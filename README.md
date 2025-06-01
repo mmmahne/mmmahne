@@ -168,9 +168,6 @@
 ## 🤝 Communication
 
 <div align="center">
-    <a href="https://instagram.com/mmmahne">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" alt="Instagram">
-    </a>
     <a href="mailto:aryamahendra@protonmail.ch">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1a1b27" alt="Email">
     </a>
