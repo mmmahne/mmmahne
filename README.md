@@ -55,35 +55,35 @@
 </div>
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
-![React Native](https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=black&labelColor=000000)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🛠 Backend
-![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000)
-![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black&labelColor=000000)
-![Go](https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=black&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black&labelColor=000000)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💾 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=000000)
-![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=black&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🚀 Web3 & Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=FFFFFF)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white&labelColor=FFFFFF)
-![Web3.js](https://img.shields.io/badge/Web3.js-FFFFFF?style=for-the-badge&logo=web3.js&logoColor=black&labelColor=000000)
-![Solana](https://img.shields.io/badge/Solana-FFFFFF?style=for-the-badge&logo=solana&logoColor=black&labelColor=000000)
-![Anchor](https://img.shields.io/badge/Anchor-FFFFFF?style=for-the-badge&logo=anchor&logoColor=black&labelColor=000000)
+![Ethereum](https://img.shields.io/badge/Ethereum-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white)
 
 ### ⚡ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=black&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 💡 Additional Expertise
 
@@ -114,7 +114,7 @@
         <sub>Development and implementation of enterprise resource planning solutions for business process automation</sub>
       </td>
       <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/seo.png"/>
+        <img width="40" src="https://cdn-icons-png.flaticon.com/64/2721/2721688.png"/>
         <br />
         <strong>SEO Optimization</strong>
         <br />
@@ -130,7 +130,7 @@
         <sub>Implementation of machine learning models, LLM integration, and AI-powered automation solutions</sub>
       </td>
       <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/mobile-app.png"/>
+        <img width="40" src="https://cdn-icons-png.flaticon.com/64/2991/2991148.png"/>
         <br />
         <strong>Mobile Development</strong>
         <br />
@@ -139,7 +139,7 @@
     </tr>
     <tr>
       <td align="center" width="300" colspan="2">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/automation.png"/>
+        <img width="40" src="https://cdn-icons-png.flaticon.com/64/2942/2942813.png"/>
         <br />
         <strong>Automation Tools</strong>
         <br />
@@ -150,7 +150,7 @@
 </div>
 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=dark&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=mmmahne&theme=dark&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats"/>
   </div>
 
 </div>
