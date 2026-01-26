@@ -63,8 +63,8 @@ Focus Areas:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </td>
 </tr>
@@ -99,15 +99,15 @@ Focus Areas:
 ## Expertise
 
 ```
-High-Traffic Systems     Load balancing, horizontal scaling, handling millions of concurrent users
-Database Scaling         Read replicas, sharding strategies, connection pooling, query optimization
-Search Infrastructure    Elasticsearch clusters, indexing pipelines, full-text search at scale
-Container Orchestration  Kubernetes, service mesh, auto-scaling, zero-downtime deployments
-API Design               REST, GraphQL, gRPC, WebSocket - real-time systems and microservices
-ERP Systems              Enterprise solutions, business process automation, workflow engines
-AI Integration           LLM pipelines, ML model deployment, intelligent automation
-Mobile Development       Cross-platform apps with React Native, native bridge implementations
-Caching Strategies       Redis clusters, CDN optimization, cache invalidation patterns
+Scalability              Horizontal scaling, load balancing, handling high-concurrency workloads
+Database Engineering     PostgreSQL read replicas, connection pooling, query tuning, partitioning
+Search Systems           Elasticsearch cluster management, indexing strategies, relevance tuning
+Orchestration            Kubernetes deployments, service discovery, rolling updates, health checks
+API Development          RESTful services, gRPC for internal comms, WebSocket for real-time features
+Enterprise Software      ERP modules, workflow automation, business logic engines
+AI/ML Integration        LLM API integration, model serving, prompt engineering
+Cross-Platform Mobile    React Native production apps, native module bridging
+Caching                  Redis for sessions and queues, CDN configuration, cache invalidation
 ```
 
 ---
@@ -117,8 +117,6 @@ Caching Strategies       Redis clusters, CDN optimization, cache invalidation pa
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmahne&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
