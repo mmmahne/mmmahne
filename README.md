@@ -1,174 +1,128 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header" />
-</div>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B;Full+Stack+Developer;Smart+Contract+Engineer;Web3+Developer" alt="Typing SVG" />
-    </a>
-</h1>
+```
+ █████╗ ██████╗ ██╗   ██╗ █████╗     ███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗██████╗ ██████╗  █████╗ 
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗    ████╗ ████║██╔══██╗██║  ██║██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+███████║██████╔╝ ╚████╔╝ ███████║    ██╔████╔██║███████║███████║█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
+██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║    ██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+██║  ██║██║  ██║   ██║   ██║  ██║    ██║ ╚═╝ ██║██║  ██║██║  ██║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<h3 align="center">💻 Full Stack Developer from Surabaya, Indonesia 🌆</h3>
+**Full Stack Engineer | Smart Contract Developer | Systems Architect**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
+*Surabaya, Indonesia*
 
-<br>
+[![Email](https://img.shields.io/badge/aryamahendra%40protonmail.ch-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:aryamahendra@protonmail.ch)
 
-<div align="center">
-  
-  ### 🚀 Tech Journey & Learning Path
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+Explorer" alt="Typing SVG" />
-  </div>
-
-  ### 🎯 Current Focus Areas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/react-native.png"/>
-        <br />
-        <strong>Advanced React Patterns</strong>
-        <br />
-        <sub>Performance & Architecture</sub>
-      </td>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/artificial-intelligence.png"/>
-        <br />
-        <strong>AI Integration</strong>
-        <br />
-        <sub>LLM & Neural Networks</sub>
-      </td>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/blockchain-technology.png"/>
-        <br />
-        <strong>Web3 Development</strong>
-        <br />
-        <sub>Smart Contracts & DApps</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠 Backend
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-### 💾 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🚀 Web3 & Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white)
-
-### ⚡ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 💡 Additional Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/database.png"/>
-        <br />
-        <strong>Query Optimization</strong>
-        <br />
-        <sub>Performance tuning for complex database queries and database architecture design for scalable systems</sub>
-      </td>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/api-settings.png"/>
-        <br />
-        <strong>API Integration</strong>
-        <br />
-        <sub>WebSocket, RESTful API, and gRPC implementation with real-time data handling and microservices architecture</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/enterprise-resource-planning.png"/>
-        <br />
-        <strong>ERP Systems</strong>
-        <br />
-        <sub>Development and implementation of enterprise resource planning solutions for business process automation</sub>
-      </td>
-      <td align="center" width="300">
-        <img width="40" src="https://cdn-icons-png.flaticon.com/64/2721/2721688.png"/>
-        <br />
-        <strong>SEO Optimization</strong>
-        <br />
-        <sub>Implementation of technical SEO best practices and performance optimization for better search rankings</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <img width="40" src="https://img.icons8.com/ios/64/000000/artificial-intelligence.png"/>
-        <br />
-        <strong>AI Integration</strong>
-        <br />
-        <sub>Implementation of machine learning models, LLM integration, and AI-powered automation solutions</sub>
-      </td>
-      <td align="center" width="300">
-        <img width="40" src="https://cdn-icons-png.flaticon.com/64/2991/2991148.png"/>
-        <br />
-        <strong>Mobile Development</strong>
-        <br />
-        <sub>Cross-platform mobile app development using React Native and native integration capabilities</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300" colspan="2">
-        <img width="40" src="https://cdn-icons-png.flaticon.com/64/2942/2942813.png"/>
-        <br />
-        <strong>Automation Tools</strong>
-        <br />
-        <sub>Development of custom automation solutions, CI/CD pipelines, and workflow optimization tools</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=mmmahne&theme=dark&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats"/>
-  </div>
+---
 
 </div>
 
+## About
+
+Software engineer with expertise in distributed systems, blockchain infrastructure, and high-performance web applications. I build scalable solutions that handle real-world complexity.
+
+```text
+Focus Areas:
+├── Blockchain        Smart contracts, DeFi protocols, cross-chain systems
+├── Backend           High-throughput APIs, microservices, event-driven architecture  
+├── Frontend          Complex state management, real-time interfaces, performance optimization
+└── Infrastructure    Container orchestration, CI/CD pipelines, cloud-native deployments
+```
+
+---
+
+## Technical Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Web3 / Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-7C3AED?style=flat-square&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+### DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Expertise
+
+```
+Query Optimization       Performance tuning for complex queries, database architecture for scale
+API Design               REST, GraphQL, gRPC, WebSocket - real-time systems and microservices
+ERP Systems              Enterprise solutions, business process automation, workflow engines
+AI Integration           LLM pipelines, ML model deployment, intelligent automation
+Mobile Development       Cross-platform apps with React Native, native bridge implementations
+Infrastructure           CI/CD, container orchestration, infrastructure as code
+```
+
+---
+
+## Stats
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmahne&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Streak](https://streak-stats.demolab.com/?user=mmmahne&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+
 </div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer"/>
-</div>
+---
 
 <div align="center">
-  
-## 🤝 Communication
 
-<div align="center">
-    <a href="mailto:aryamahendra@protonmail.ch">
-        <img src="https://img.shields.io/badge/ProtonMail-FFFFFF?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=000000" alt="Email">
-    </a>
+*Building systems that scale.*
+
 </div>
