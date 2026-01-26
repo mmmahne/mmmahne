@@ -99,12 +99,15 @@ Focus Areas:
 ## Expertise
 
 ```
-Query Optimization       Performance tuning for complex queries, database architecture for scale
+High-Traffic Systems     Load balancing, horizontal scaling, handling millions of concurrent users
+Database Scaling         Read replicas, sharding strategies, connection pooling, query optimization
+Search Infrastructure    Elasticsearch clusters, indexing pipelines, full-text search at scale
+Container Orchestration  Kubernetes, service mesh, auto-scaling, zero-downtime deployments
 API Design               REST, GraphQL, gRPC, WebSocket - real-time systems and microservices
 ERP Systems              Enterprise solutions, business process automation, workflow engines
 AI Integration           LLM pipelines, ML model deployment, intelligent automation
 Mobile Development       Cross-platform apps with React Native, native bridge implementations
-Infrastructure           CI/CD, container orchestration, infrastructure as code
+Caching Strategies       Redis clusters, CDN optimization, cache invalidation patterns
 ```
 
 ---
@@ -115,7 +118,7 @@ Infrastructure           CI/CD, container orchestration, infrastructure as code
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmahne&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Streak](https://streak-stats.demolab.com/?user=mmmahne&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmmahne&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
