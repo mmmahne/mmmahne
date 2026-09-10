@@ -4,7 +4,7 @@
 
   <p>Software Engineer · Surabaya, Indonesia</p>
 
-  <p>Interested in native systems, developer tools, and AI-assisted development.</p>
+  <p>Interested in native systems and developer tools.</p>
 
   <p>
     <code>Objective-C</code> · <code>Rust</code> · <code>Go</code>
