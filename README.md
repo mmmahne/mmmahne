@@ -2,12 +2,12 @@
 
   <h1>Arya Mahendra</h1>
 
-  <p>Software Developer · Surabaya, Indonesia</p>
+  <p>Software Engineer · Surabaya, Indonesia</p>
 
-  <p>I build web apps, APIs, and tools that make everyday work easier.</p>
+  <p>Interested in native systems, developer tools, and AI-assisted development.</p>
 
   <p>
-    <code>TypeScript</code> · <code>React</code> · <code>Go</code> · <code>PHP</code> · <code>Laravel</code>
+    <code>Objective-C</code> · <code>Rust</code> · <code>Go</code>
   </p>
 
   <p><a href="mailto:aryamahendra@protonmail.ch">Get in touch</a></p>
