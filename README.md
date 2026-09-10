@@ -4,7 +4,7 @@
 
   <p>Software Engineer · Surabaya, Indonesia</p>
 
-  <p>Interested in native systems and developer tools.</p>
+  <p>I reverse engineer software, build native tools, and manage Linux servers.</p>
 
   <p>
     <code>Objective-C</code> · <code>Rust</code> · <code>Go</code>
