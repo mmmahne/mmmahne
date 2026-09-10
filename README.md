@@ -1,8 +1,15 @@
-# Arya Mahendra
+<div align="center">
 
-Software developer based in Surabaya, Indonesia.
-Building web apps, APIs, and tools for everyday work.
+  <h1>Arya Mahendra</h1>
 
-TypeScript · React · Go · PHP · Laravel
+  <p>Software Developer · Surabaya, Indonesia</p>
 
-[Get in touch](mailto:aryamahendra@protonmail.ch)
+  <p>I build web apps, APIs, and tools that make everyday work easier.</p>
+
+  <p>
+    <code>TypeScript</code> · <code>React</code> · <code>Go</code> · <code>PHP</code> · <code>Laravel</code>
+  </p>
+
+  <p><a href="mailto:aryamahendra@protonmail.ch">Get in touch</a></p>
+
+</div>
